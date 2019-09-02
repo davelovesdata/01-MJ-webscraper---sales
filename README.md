@@ -1,5 +1,5 @@
 # MJ-webscraper---sales
-scraper to retrieve marijuana sales files
+Webscraper to retrieve marijuana sales files
 
 This python file uses Beautifulsoup and regex to identify and download excel files containing county level marijuana sales data from the following public facing website: https://www.colorado.gov/pacific/revenue/colorado-marijuana-sales-reports.
 
