@@ -9,6 +9,6 @@ The file 'Web Scraper Sales.ipynb' is the executable.
 
 Files are saved in the format mmyy_sales.xlsx.
 
-Resources:
-https://pythonspot.com/extract-links-from-webpage-beautifulsoup/
+Resources:<br>
+https://pythonspot.com/extract-links-from-webpage-beautifulsoup/<br>
 https://www.geeksforgeeks.org/downloading-files-web-using-python/
